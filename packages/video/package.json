@@ -1,6 +1,6 @@
 {
   "name": "@jaquekirino/draft-js-plugins-video",
-  "version": "4.1.6",
+  "version": "4.1.7",
   "sideEffects": [
     "*.css"
   ],
