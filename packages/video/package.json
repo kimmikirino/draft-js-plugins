@@ -1,16 +1,14 @@
 {
-  "name": "@jaquekirino/draft-js-plugins-video",
-  "version": "4.1.6",
+  "name": "@omella/draft-js-plugins-video",
+  "version": "4.1.9",
   "sideEffects": [
     "*.css"
   ],
   "description": "Video Plugin for DraftJS",
-  "author": {
-    "name": "Anchen li"
-  },
+  "author": "Anchen li",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kimmikirino/draft-js-plugins.git"
+    "url": "git+https://github.com/Omella-Inc/draft-js-plugins.git"
   },
   "main": "lib/index.cjs.js",
   "module": "lib/index.esm.js",
@@ -48,5 +46,13 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/Omella-Inc/draft-js-plugins/issues"
+  },
+  "homepage": "https://github.com/Omella-Inc/draft-js-plugins#readme"
 }
